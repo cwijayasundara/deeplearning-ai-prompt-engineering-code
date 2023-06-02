@@ -1,0 +1,20 @@
+openai
+python-dotenv
+IPython
+redlines
+inp
+panel
+datasets
+bs4
+torchaudio
+huggingface_hub
+transformers==v4.29.0
+diffusers
+accelerate
+torch
+soundfile
+sentencepiece
+opencv-python
+python-dotenv
+IPython
+google-cloud-aiplatform --upgrade
